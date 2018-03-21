@@ -1,0 +1,13 @@
+
+*.config
+*.exe
+.vs/第十一天/v15/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.cache
+*.sln
+*.csproj
+*.pdb
+*.txt
